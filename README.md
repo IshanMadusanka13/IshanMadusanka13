@@ -1,12 +1,14 @@
 # Hey, I'm Ishan Madusanka! 👋
 
-🎓 Second-year Software Engineering student at SLIIT University, Sri Lanka.
+🎓 **Third-year Software Engineering Student** at SLIIT University, Sri Lanka.
 
-🚀 Passionate about Java development, with a knack for Spring Boot and Hibernate frameworks. 
+🚀 **Passionate Java Developer** with expertise in Spring Boot and Hibernate frameworks.
 
-💻 Proficient in HTML, CSS, JavaScript, and PHP, crafting web experiences that stand out.
+💻 **Proficient in Web Development** using HTML, CSS, JavaScript, and PHP, with experience in crafting standout web experiences.
 
-🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together! 🛠️
+🌐 **Skilled in Full-Stack Development** with hands-on experience in the MERN stack and Laravel.
 
-📫 Connect with me:
+🌱 **Lifelong Learner** eager to collaborate on innovative projects and build something amazing together.
+
+📫 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/ishan-madusanka-b4b2a5256)
